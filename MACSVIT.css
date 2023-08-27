@@ -64,7 +64,7 @@ body {
 
 .navbar a {
     position: relative;
-    font-size: 1.67rem;
+    font-size: 1.95rem;
     color: black;
     font-weight: 500;
     margin-right: 3.5rem;
@@ -221,10 +221,10 @@ section {
 .home-img img {
     position: absolute;
     bottom: 0;
-    right: -10rem;
+    right: -15rem;
     /*ปรับขนาดภาพปก*/
-    height: 50rem;
-    width: 100rem;
+    height: 70rem;
+    width: 110rem;
     /*ปรับขนาดภาพปก*/
     pointer-events: none;
 }
