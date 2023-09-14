@@ -223,8 +223,8 @@ section {
     bottom: 0;
     right: -10rem;
     /*ปรับขนาดภาพปก*/
-    height: 50%;
-    width: 50%;
+/*     height: 50%; */
+    width: 40vw;
     /*ปรับขนาดภาพปก*/
     pointer-events: none;
 }
