@@ -224,7 +224,7 @@ section {
     right: -10rem;
     /*ปรับขนาดภาพปก*/
 /*     height: 50%; */
-    width: 40vw;
+    width: 100vw;
     /*ปรับขนาดภาพปก*/
     pointer-events: none;
 }
