@@ -223,16 +223,16 @@ section {
     bottom: 0;
     right: -10rem;
     /*ปรับขนาดภาพปก*/
-    height: 55rem;
-    width: 100rem;
+    height: 50%;
+    width: 50%;
     /*ปรับขนาดภาพปก*/
     pointer-events: none;
 }
 
-.home-img .img {
+/* .home-img .img {
     height: 80rem;
     width: 100rem;
-}
+} */
 
 span {
     color: var(--main-color);
