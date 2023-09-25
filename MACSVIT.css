@@ -221,10 +221,10 @@ section {
 .home-img img {
     position: absolute;
     bottom: 0;
-    right: -10rem;
+    right: 14rem;
     /*ปรับขนาดภาพปก*/
-    height: 80rem; 
-    width: 110rem;
+    height: 70.5rem; 
+    width: 58rem;
     /*ปรับขนาดภาพปก*/
     pointer-events: none;
 }
